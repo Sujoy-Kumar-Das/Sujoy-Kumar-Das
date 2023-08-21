@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hello, fellow code enthusiasts!</h1>
 <h3 align="center">A Passionate Frontend Dev, Now Exploring Backend 🛠️</h3>
 <p align="left">
-Hey there, I'm Sujoy Kumar Das! Passionate about crafting seamless frontend experiences. Embarking on a backend adventure to bring full-stack visions to life. 🚀  </p
-                                                                                                                                                         
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujoy-kumar-das&label=Profile%20views&color=0e75b6&style=flat" alt="sujoy-kumar-das" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujoy-kumar-das" alt="sujoy-kumar-das" /></a> </p>
+Hey there, I'm Sujoy Kumar Das! Passionate about crafting seamless frontend experiences. Embarking on a backend adventure to bring full-stack visions to life. 🚀  </p>
 
 - 📫 How to reach me **sujoykumardas75@gmail.con**
 
