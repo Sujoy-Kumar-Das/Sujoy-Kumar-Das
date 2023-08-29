@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello there,</h1>
-<h3 align="left">This Sujoy a passionate frontend dev, now exploring backend 🛠️</h3>
+<h3 align="left">This is Sujoy a passionate frontend dev, now exploring backend 🛠️</h3>
 
 
 - 📫 How to reach me **sujoykumardas75@gmail.con**
