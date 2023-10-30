@@ -2,7 +2,7 @@
 <h3 align="left">This is Sujoy a passionate frontend dev, now exploring backend 🛠️</h3>
 
 
-- 📫 How to reach me **sujoykumardas75@gmail.con**
+- 📫 How to reach me **sujoykumardas75@gmail.com**
 
 <h3 align="left">Get in touch with me.:</h3>
 <p align="left">
