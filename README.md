@@ -20,7 +20,7 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujoy-kumar-das&" alt="sujoy-kumar-das" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sujoy-Kumar-Das&" alt="sujoy-kumar-das" /></p>
 
 
 <h3 align="left">Programming Languages and Frameworks :</h3>
